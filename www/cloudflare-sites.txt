@@ -1,0 +1,18 @@
+# List of popular sites using Cloudflare. Contributions or suggestions are greatly appreciated!
+
+www.reddit.com
+www.eharmony.com.au
+oce.leagueoflegends.com
+www.zendesk.com
+www.curse.com
+www.cloudflare.com
+digitalocean.com
+www.okcupid.com
+www.cjs-cdkeys.com
+www.hostnet.com.br
+www.upwork.com
+www.elance.com
+getbootstrap.com
+
+# Shameless plug
+mitchfizz05.net

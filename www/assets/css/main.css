@@ -16,7 +16,7 @@
     src: url('../font/opensans/OpenSans-Light.ttf');
 }
 
-html,body { margin: 0; padding: 0; height: 100%; }
+html,body { margin: 0; padding: 0; }
 
 body {
     background-color: #d7d7d7;

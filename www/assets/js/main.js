@@ -58,6 +58,10 @@ $(document).ready(function(){
         return false;
     });
 
+    $("#urlbox").keypress(function(){
+        $(".result").fadeOut(250);
+    });
+
     // Set result boxes to block objects hidden with jQuery.
     $(".result").css("display", "block");
     $(".result").hide();

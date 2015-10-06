@@ -22,6 +22,11 @@
             <form id="urlform">
                 <input type="text" id="urlbox" placeholder="">
             </form><br>
+
+            <footer>
+                <a href="https://github.com/mitchfizz05/cloudflare-check" title="mitchfizz05/cloudflare-checker">Cloudflare Checker</a> by <a href="http://mitchfizz05.net/" title="Mitchfizz05">Mitchfizz05</a> |
+                Not affiliated with <a href="https://cloudflare.com/" title="CloudFlare.com">CloudFlare</a> (they are pretty cool though!)
+            </footer>
         </div>
     </body>
 </html>

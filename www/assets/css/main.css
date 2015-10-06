@@ -95,7 +95,20 @@ body {
     color: #a94442;
     background-color: #f2dede;
     border-color: #ebccd1;
-
 }
+
+footer {
+    margin-top: 64px;
+
+    font-family: "open sans", arial, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    color: #313131;
+
+    text-align: center;
+}
+
+footer a { color: inherit; text-decoration: none; }
+footer a:hover { text-decoration: underline; }
 
 

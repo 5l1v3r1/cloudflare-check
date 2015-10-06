@@ -1,0 +1,67 @@
+
+/* Custom Fonts */
+@font-face {
+    font-family: "open sans";
+    font-weight: normal;
+    src: url('../font/opensans/OpenSans-Regular.ttf');
+}
+@font-face {
+    font-family: "open sans";
+    font-weight: bold;
+    src: url('../font/opensans/OpenSans-Bold.ttf');
+}
+@font-face {
+    font-family: "open sans";
+    font-weight: lighter;
+    src: url('../font/opensans/OpenSans-Light.ttf');
+}
+
+html,body { margin: 0; padding: 0; height: 100%; }
+
+body {
+    background-color: #d7d7d7;
+}
+
+#header {
+    width: 100%;
+    padding: 20px 0px;
+    margin: 24px 0px;
+
+    background-color: #30303b;
+
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: "Open Sans", arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+
+#header span,img { vertical-align: middle; }
+
+#cloudflare-logo {
+    border: none;
+    margin: 0 5px;
+}
+
+#content {
+    width: 775px;
+    margin: 0 auto;
+
+    text-align: center;
+}
+#content p { text-align: left; }
+
+#urlbox {
+    width: 380px;
+    padding: 8px;
+
+    font-family: "open sans", verdana, arial, sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+
+}
+

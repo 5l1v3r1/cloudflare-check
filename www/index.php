@@ -15,9 +15,13 @@
             <span>?</span>
         </div>
         <div id="content">
+            <div class="result result-yes"><b>Nice!</b> This site is on CloudFlare.</div>
+            <div class="result result-no"><b>Hmmm...</b> This site is not using CloudFlare.</div>
+            <div class="result result-error"><b>Uhh...</b> There was a problem connecting to the origin server..</div>
+
             <form id="urlform">
                 <input type="text" id="urlbox" placeholder="">
-            </form>
+            </form><br>
         </div>
     </body>
 </html>

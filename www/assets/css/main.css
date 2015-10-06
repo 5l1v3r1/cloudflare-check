@@ -50,10 +50,12 @@ body {
 #content {
     width: 775px;
     margin: 0 auto;
+}
 
+#urlform {
+    width: 100%;
     text-align: center;
 }
-#content p { text-align: left; }
 
 #urlbox {
     width: 380px;
@@ -62,6 +64,6 @@ body {
     font-family: "open sans", verdana, arial, sans-serif;
     font-size: 24px;
     font-weight: lighter;
-
 }
+
 

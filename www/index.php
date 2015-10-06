@@ -4,6 +4,9 @@
         <title>Cloudflare Check</title>
 
         <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/main.js"></script>
     </head>
     <body>
         <div id="header">
@@ -12,7 +15,9 @@
             <span>?</span>
         </div>
         <div id="content">
-            <input type="text" id="urlbox">
+            <form id="urlform">
+                <input type="text" id="urlbox" placeholder="">
+            </form>
         </div>
     </body>
 </html>
